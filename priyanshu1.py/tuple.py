@@ -1,0 +1,12 @@
+marks=[]
+f1=input("enter the marks name")
+marks.append(f1)
+f2=input("enter the marks name")
+marks.append(f1)
+f3=input("enter the marks name")
+marks.append(f1)
+f4=input("enter the marks name")
+marks.append(f1)
+f5=input("enter the marks name")
+marks.append(f1)
+print(marks)

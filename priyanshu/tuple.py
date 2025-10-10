@@ -1,0 +1,7 @@
+a=("rohan","goat",664,664,878,67)
+print(type(a))
+print (a)
+nu=a.count(664)
+print(nu)
+i=a.index(67)
+print(i)
