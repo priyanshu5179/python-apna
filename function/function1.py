@@ -6,3 +6,5 @@ def cal_avg(a, b, c):
 
 # Call the function outside, not indented
 cal_avg(23, 32, 2)
+print("thanku")
+cal_avg(34,56,7)
