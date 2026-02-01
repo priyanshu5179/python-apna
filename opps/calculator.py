@@ -6,5 +6,5 @@ class calculator:
         print(f"The square of the number is {self.n * self.n}")
 
 
-a = calculator(45)   # fixed: class name was wrong (spuare)
-a.square()           # fixed: method name was wrong (spuare)
+a = calculator(45)   # fixed:class name was wrong (spuare)
+a.square()           # fixed:method name was wrong (spuare)
