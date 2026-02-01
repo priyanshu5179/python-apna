@@ -9,7 +9,7 @@ class employee:
         print("good morning")
 
 priyanshu = employee()
-priyanshu.language = 'python'   # object instance attribute
+priyanshu.language = 'python'   # object/ instance attribute
 
 priyanshu.getinfo()
 priyanshu.greet()
